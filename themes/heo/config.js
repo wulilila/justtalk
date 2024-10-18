@@ -60,11 +60,11 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/1-1.webp',
-      color_1: '#202020',
+      img_1: '/images/heo/2-1.webp',
+      color_1: '#007481',
       title_2: 'Sketch',
-      img_2: '/images/heo/2-1.webp',
-      color_2: '#007481'
+      img_2: '/images/heo/1-1.webp',
+      color_2: '#202020'
     },
     {
       title_1: 'Docker',
@@ -100,11 +100,11 @@ const CONFIG = {
     },
     {
       title_1: 'JS',
-      img_1: '/images/heo/6-1.webp',
-      color_1: '#000000',
+      img_1: '/images/heo/8-1.webp',
+      color_1: '#dfcfb8',
       title_2: 'HTML',
-      img_2: '/images/heo/8-1.webp',
-      color_2: '#dfcfb8'
+      img_2: '/images/heo/6-1.webp',
+      color_2: '#000000'
     },
     {
       title_1: 'Git',
