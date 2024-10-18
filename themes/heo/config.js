@@ -60,58 +60,58 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/1.webp',
+      img_1: '/images/heo/1-1.webp',
       color_1: '#202020',
       title_2: 'Sketch',
-      img_2: '/images/heo/2.webp',
+      img_2: '/images/heo/2-1.webp',
       color_2: '#007481'
     },
     {
       title_1: 'Docker',
-      img_1: '/images/heo/3.webp',
+      img_1: '/images/heo/3-1.webp',
       color_1: '#000000',
       title_2: 'Photoshop',
-      img_2: '/images/heo/4.webp',
+      img_2: '/images/heo/4-1.webp',
       color_2: '#f8f8f8'
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/images/heo/5.webp',
+      img_1: '/images/heo/5-1.webp',
       color_1: '#da2427',
       title_2: 'Python',
-      img_2: '/images/heo/6.webp',
+      img_2: '/images/heo/6-1.webp',
       color_2: '#000000'
     },
     {
       title_1: 'Swift',
-      img_1: '/images/heo/7.webp',
+      img_1: '/images/heo/7-1.webp',
       color_1: '#0e81da',
       title_2: 'Principle',
-      img_2: '/images/heo/8.webp',
+      img_2: '/images/heo/8-1.webp',
       color_2: '#dfcfb8'
     },
     {
       title_1: 'illustrator',
-      img_1: '/images/heo/1.webp',
+      img_1: '/images/heo/1-1.webp',
       color_1: '#202020',
       title_2: 'CSS3',
-      img_2: '/images/heo/4.webp',
+      img_2: '/images/heo/4-1.webp',
       color_2: '#f8f8f8'
     },
     {
       title_1: 'JS',
-      img_1: '/images/heo/6.webp',
+      img_1: '/images/heo/6-1.webp',
       color_1: '#000000',
       title_2: 'HTML',
-      img_2: '/images/heo/8.webp',
+      img_2: '/images/heo/8-1.webp',
       color_2: '#dfcfb8'
     },
     {
       title_1: 'Git',
-      img_1: '/images/heo/3.webp',
+      img_1: '/images/heo/3-1.webp',
       color_1: '#000000',
       title_2: 'Rhino',
-      img_2: '/images/heo/5.webp',
+      img_2: '/images/heo/5-1.webp',
       color_2: '#da2427'
     }
   ],
